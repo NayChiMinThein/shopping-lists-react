@@ -1,0 +1,8 @@
+.delIcon{
+    color: #868686;
+}
+
+.delIcon:hover{
+    color: #cb0000;
+    transform: scale(1.1);
+}
